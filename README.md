@@ -44,7 +44,8 @@ O sorteio só pode ser realizado uma vez, a menos que um novo sorteador seja def
 
 📷 Demonstração
 
-![image](https://github.com/user-attachments/assets/7284dcc1-bf53-40fe-bf76-12930f7c463a)
+![image](https://github.com/user-attachments/assets/7b195ed1-f705-4df1-b333-0d365fe4397f)
+
 
 
 🤝 Contribuição
