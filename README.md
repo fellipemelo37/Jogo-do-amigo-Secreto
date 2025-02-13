@@ -1,5 +1,6 @@
-SORTEIO DO AMIGO SECRETO
-
+<h2>SORTEIO DO AMIGO SECRETO</h2>
+<ul>
+    
 <h2>📌 Funcionalidades</h2>
 <ul>
     <li>Adicionar amigos à lista de participantes.</li>
