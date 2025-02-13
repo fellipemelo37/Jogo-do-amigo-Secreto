@@ -1,6 +1,6 @@
 Sorteador do Jogo Amigo Secreto
 
-Este projeto é uma aplicação web simples para sortear um amigo secreto entre uma lista de participantes.
+Este projeto é uma aplicação simples para sortear um amigo secreto aleatório entre uma lista de participantes.
 
 📌 Funcionalidades
 
