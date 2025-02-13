@@ -1,4 +1,4 @@
-Sorteador de Amigo Secreto
+Sorteador do Jogo Amigo Secreto
 
 Este projeto é uma aplicação web simples para sortear um amigo secreto entre uma lista de participantes.
 
@@ -24,7 +24,7 @@ JavaScript
 
 Clone este repositório:
 
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/fellipemelo37/Jogo-do-amigo-Secreto)
+git clone https://github.com/fellipemelo37/Jogo-do-amigo-Secreto
 
 Abra o arquivo index.html em seu navegador.
 
@@ -44,7 +44,8 @@ O sorteio só pode ser realizado uma vez, a menos que um novo sorteador seja def
 
 📷 Demonstração
 
-(Adicione aqui uma captura de tela do projeto funcionando)
+![image](https://github.com/user-attachments/assets/7284dcc1-bf53-40fe-bf76-12930f7c463a)
+
 
 🤝 Contribuição
 
@@ -60,8 +61,4 @@ Faça um push para a branch (git push origin minha-feature)
 
 Abra um Pull Request
 
-📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-💡 Desenvolvido por Seu Nome
+💡 Desenvolvido por Fellipe Ferreira
